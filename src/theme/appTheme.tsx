@@ -44,5 +44,3 @@ export const styles = StyleSheet.create({
     bottom: 10
   },
 });
-
-//Ahora craremos componente de botones

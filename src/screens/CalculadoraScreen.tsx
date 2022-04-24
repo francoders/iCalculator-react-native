@@ -33,7 +33,7 @@ export default function CalculadoraScreen() {
       <View style={styles.fila}>
         <Boton texto="C" color="#9B9B9B" onClick={limpiar} />
         <Boton texto="+/-" color="#9B9B9B" onClick={numNegativo} />
-        <Boton texto="del" color="#9B9B9B" onClick={limpiarUltimo} />
+        <Boton texto="❮" color="#9B9B9B" onClick={limpiarUltimo} />
         <Boton texto="/" color="#FF9427" onClick={btnDividir} />
       </View>
 
