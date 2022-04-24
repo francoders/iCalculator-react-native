@@ -1,7 +1,7 @@
-import {View, Text, StyleSheet, StatusBar} from 'react-native';
+import { View, Text, StyleSheet, StatusBar } from 'react-native';
 import React from 'react';
 import CalculadoraScreen from './src/screens/CalculadoraScreen';
-import {styles} from './src/theme/appTheme';
+import { styles } from './src/theme/appTheme';
 
 export default function App() {
   return (
